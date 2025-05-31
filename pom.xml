@@ -26,6 +26,7 @@
               <manifest> 
                       <addClasspath>true</addClasspath> 
                       <mainClass>com.multit.App</mainClass>  
+              </manifest>
               </archive> 
       </configuration> 
   </plugin> 
